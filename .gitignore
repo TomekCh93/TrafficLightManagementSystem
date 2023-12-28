@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Traffic Light (Java)/*
+!/Traffic Light (Java)/task/
+/Traffic Light (Java)/task/*
+!/Traffic Light (Java)/task/src
